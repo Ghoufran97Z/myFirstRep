@@ -1,0 +1,69 @@
+{"students":[
+    {"Student_Id": 1,
+        "Student_Name":"Ghoufran",
+        "Student_Address":"Akkar",
+        "Student_Major": "Programming",
+        "Student_Photo":"https://www.w3schools.com/bootstrap4/img_avatar5.png"
+        
+    },
+    {"Student_Id":2,
+        "Student_Name":"Jhon",
+        "Student_Address": "Beirut",
+        "Student_Major": "Networking",
+        "Student_Photo":"https://www.w3schools.com/bootstrap4/img_avatar5.png"
+        
+    },
+    {"Student_Id":3,
+        "Student_Name":"Aicha",
+        "Student_Address": "Akkar",
+        "Student_Major": "Software Engineering",
+        "Student_Photo":"https://www.w3schools.com/bootstrap4/img_avatar5.png"
+        
+    },
+    {"Student_Id":4,
+        "Student_Name":"Mohammed",
+        "Student_Address":"Saida",
+        "Student_Major":"Computer Science",
+        "Student_Photo":"https://www.w3schools.com/bootstrap4/img_avatar5.png"
+        
+    },
+    {"Student_Id":5,
+        "Student_Name":"Helena",
+        "Student_Address": "Bequaa",
+        "Student_Major": "Software Engineering",
+        "Student_Photo":"https://www.w3schools.com/bootstrap4/img_avatar5.png"
+        
+    },
+    {"Student_Id":6,
+        "Student_Name":"Shadi",
+        "Student_Address": "Akkar",
+        "Student_Major": "Human Recources",
+        "Student_Photo":"https://www.w3schools.com/bootstrap4/img_avatar5.png"
+        
+    },
+    {"Student_Id":7,
+        "Student_Name":"Sandy",
+        "Student_Address": "Tripoli",
+        "Student_Major": "Business",
+        "Student_Photo":"https://www.w3schools.com/bootstrap4/img_avatar5.png"
+        
+    }
+    ,
+    {"Student_Id":8,
+        "Student_Name":"Samir",
+        "Student_Address": "Akkar",
+        "Student_Major": "Software Engineering",
+        "Student_Photo":"https://www.w3schools.com/bootstrap4/img_avatar5.png"
+        
+    },
+    {"Student_Id":9,
+        "Student_Name":"Jane",
+        "Student_Address": "Akkar",
+        "Student_Major": "Software Engineering",
+        "Student_Photo":"https://www.w3schools.com/bootstrap4/img_avatar5.png"
+        
+    }
+
+]
+
+}
